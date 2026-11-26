@@ -1,0 +1,6 @@
+# audits write these next to the profile, but keep a repo clean anyway
+plan.json
+*.bak-*
+node_modules/
+.DS_Store
+Thumbs.db
