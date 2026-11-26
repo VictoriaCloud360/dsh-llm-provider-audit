@@ -1,6 +1,6 @@
 # dsh-llm-provider-audit
 
-Habilidad de [DeepSeek Harness](https://github.com/deepseek-ai) que audita los proveedores LLM de un perfil, los prueba contra las APIs reales y elimina lo que no puede funcionar.
+Habilidad de **DeepSeek Harness (DSH)** que audita los proveedores LLM de un perfil, los prueba contra las APIs reales y elimina lo que no puede funcionar.
 
 Nació de un caso concreto: un perfil con 7 proveedores y 335 entradas de modelo donde sólo una fracción respondía. Errores que resolvió:
 
